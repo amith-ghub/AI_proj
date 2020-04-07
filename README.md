@@ -1,2 +1,2 @@
 # idea-plant
-AI project - Plant disease identification system
+AI project - Disease identification system
